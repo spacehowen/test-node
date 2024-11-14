@@ -1,0 +1,13 @@
+{
+  "name": "node-scraper",
+  "version": "1.0.0",
+  "description": "Proyecto de scraping con Puppeteer en Railway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^10.4.0"
+  }
+}
